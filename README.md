@@ -105,17 +105,7 @@ Curieux, patient avec les bugs (pas toujours), et toujours en train d'apprendre.
 
 ---
 
-### 🐍 Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KABORE-DEV/KABORE-DEV/output/github-contribution-grid-snake-dark.svg" />
-    
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KABORE-DEV/KABORE-DEV/output/github-contribution-grid-snake.svg" />
-    
-    <img alt="snake animation" src="https://raw.githubusercontent.com/KABORE-DEV/KABORE-DEV/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 ---
 
@@ -128,6 +118,8 @@ Curieux, patient avec les bugs (pas toujours), et toujours en train d'apprendre.
 [![GitHub](https://img.shields.io/badge/GitHub-KABORE--DEV-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KABORE-DEV)
 
 </div>
+
+---
 
 ---
 
