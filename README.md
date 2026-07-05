@@ -48,23 +48,6 @@ J'apprends par la pratique : chaque projet est une occasion de progresser un peu
 
 <br>
 
-<div align="center">
-
-| Domaine | Compétence | Progression |
-|:---|:---|:---|
-| Frontend | React | `▰▰▰▰▱▱▱▱▱▱` 40% |
-| Frontend | JavaScript | `▰▰▰▰▰▰▱▱▱▱` 60% |
-| Backend | Laravel | `▰▰▰▰▱▱▱▱▱▱` 40% |
-| Backend | PHP | `▰▰▰▰▰▱▱▱▱▱` 50% |
-| Données | SQL (MySQL / PostgreSQL / SQLite) | `▰▰▰▰▰▰▱▱▱▱` 60% |
-| Fondamentaux | Java / POO | `▰▰▰▰▰▰▰▱▱▱` 70% |
-
-<sub>Auto-évaluation indicative, mise à jour au fil de mon apprentissage</sub>
-
-</div>
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
 ## Projets
@@ -120,7 +103,7 @@ Site responsive présentant mon profil et mes projets.
 <img src="https://github-readme-stats.vercel.app/api?username=KABORE-DEV&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=EC4899&icon_color=8B5CF6&text_color=c9d1d9" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KABORE-DEV&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=EC4899&text_color=c9d1d9&langs_count=8" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KABORE-DEV&theme=radical&hide_border=true&background=1a1b27&ring=8B5CF6&fire=EC4899&currStreakLabel=EC4899" height="165"/>
+<img src="https://streak-stats.demolab.com?user=KABORE-DEV&theme=radical&hide_border=true&background=1a1b27&ring=8B5CF6&fire=EC4899&currStreakLabel=EC4899" height="165"/>
 
 <br>
 
