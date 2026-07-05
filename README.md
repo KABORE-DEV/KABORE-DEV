@@ -130,10 +130,10 @@ Site responsive présentant mon profil et mes projets.
 
 <br>
 
-## 🏆 Trophées
+## 🔥 Heatmap de contributions
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KABORE-DEV&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7" />
+<img src="https://ghchart.rshah.org/8B5CF6/KABORE-DEV" alt="Contributions GitHub" width="90%"/>
 </div>
 
 <br>
