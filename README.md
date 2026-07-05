@@ -20,7 +20,7 @@
 
 Étudiant en informatique et développeur Full-Stack, j'allie la flexibilité de **React** en frontend à la robustesse de **Laravel** en backend pour concevoir des applications web performantes, scalables et centrées sur l'utilisateur. 
 
-Passionné par la résolution de problèmes et l'architecture logicielle, j'aimtemps transformer des défis techniques en lignes de code propres et maintenables.
+Passionné par la résolution de problèmes et l'architecture logicielle, j'aime transformer des défis techniques en lignes de code propres et maintenables.
 
 ---
 
@@ -55,6 +55,35 @@ Passionné par la résolution de problèmes et l'architecture logicielle, j'aimt
 | **Gestion des candidats** | C++ · SQLite3 | Système CRUD complet avec persistance de données en fichiers séparés. |
 | **Club Foot BF** | Merise · Access | Modélisation complète (MCD/MLD) et requêtes SQL pour un club local. |
 
+---
+
+## 🎯 Objectifs actuels
+
+* 🏎️ Maîtriser l'écosystème avancé de **Laravel** (API REST, Sanctum, Queues)
+* ⚛️ Perfectionner la gestion d'état globale avec **React** (Redux Toolkit / Context API)
+* 🚀 Concevoir et déployer mon premier projet d'envergure combinant **React + Laravel API**
+* 🤝 Collaborer sur des projets Open Source
+
+---
+
+## 📊 Activité & Statistiques
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=KABORE-DEV&show_icons=true&theme=dark&hide_border=true&title_color=6EE7B7&icon_color=6EE7B7&text_color=9CA3AF&bg_color=111827" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KABORE-DEV&layout=compact&theme=dark&hide_border=true&title_color=6EE7B7&text_color=9CA3AF&bg_color=111827&langs_count=5" />
+
+</div>
+
+---
+
+<div align="center">
+
+⚡ *En construction permanente — Propulsé par le café et la passion du code.*
+
+![Vue de profil](https://komarev.com/ghpvc/?username=KABORE-DEV&style=flat-square&color=6EE7B7&label=Profil+Visité)
+
+</div>
 ---
 
 ## 🎯 Objectifs actuels
