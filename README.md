@@ -6,10 +6,10 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/📍-Bobo--Dioulasso,_Burkina_Faso-8B5CF6?style=flat-square&labelColor=1e1b2e" />
-<img src="https://img.shields.io/badge/🗣️-FR_·_Moor%C3%A9_·_EN-3B82F6?style=flat-square&labelColor=1e1b2e" />
-<img src="https://img.shields.io/badge/🎓-Universit%C3%A9_Aube_Nouvelle-EC4899?style=flat-square&labelColor=1e1b2e" />
-<img src="https://img.shields.io/badge/💼-Ouvert_à_l'Open_Source-10B981?style=flat-square&labelColor=1e1b2e" />
+<img src="https://img.shields.io/badge/Bobo--Dioulasso,_Burkina_Faso-8B5CF6?style=flat-square&labelColor=1e1b2e" />
+<img src="https://img.shields.io/badge/FR_·_Moor%C3%A9_·_EN-3B82F6?style=flat-square&labelColor=1e1b2e" />
+<img src="https://img.shields.io/badge/Universit%C3%A9_Aube_Nouvelle-EC4899?style=flat-square&labelColor=1e1b2e" />
+<img src="https://img.shields.io/badge/Ouvert_%C3%A0_l'Open_Source-10B981?style=flat-square&labelColor=1e1b2e" />
 
 </div>
 
@@ -17,18 +17,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
-## 👨‍💻 Qui suis-je ?
+## À propos
 
-> Étudiant en informatique en formation active sur **React** et **Laravel**, curieux de nature et attaché à comprendre en profondeur ce que je construis.  
-> J'apprends par la pratique : chaque projet est une occasion de progresser un peu plus.
+Étudiant en informatique en formation active sur **React** et **Laravel**, curieux de nature et attaché à comprendre en profondeur ce que je construis.
+J'apprends par la pratique : chaque projet est une occasion de progresser un peu plus.
 
 <br>
 
-## 🧭 Ma feuille de route
+## Feuille de route
 
 <div align="center">
 
-| ✅ Bases solides | 🔵 En cours | ⚪ À venir | ⚪ Objectif |
+| Bases solides | En cours | À venir | Objectif |
 |:---:|:---:|:---:|:---:|
 | Java · C++ · POO<br>Bases de données | **React** · **Laravel**<br>API REST | Projet full-stack<br>React + Laravel API | Contribuer à<br>l'Open Source |
 
@@ -38,7 +38,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
-## 🧰 Technologies
+## Technologies
 
 <div align="center">
 
@@ -52,14 +52,14 @@
 
 | Domaine | Compétence | Progression |
 |:---|:---|:---|
-| 🎨 Frontend | React | `▰▰▰▰▱▱▱▱▱▱` 40% |
-| 🎨 Frontend | JavaScript | `▰▰▰▰▰▰▱▱▱▱` 60% |
-| ⚙️ Backend | Laravel | `▰▰▰▰▱▱▱▱▱▱` 40% |
-| ⚙️ Backend | PHP | `▰▰▰▰▰▱▱▱▱▱` 50% |
-| 🗄️ Données | SQL (MySQL / PostgreSQL / SQLite) | `▰▰▰▰▰▰▱▱▱▱` 60% |
-| 🧱 Fondamentaux | Java / POO | `▰▰▰▰▰▰▰▱▱▱` 70% |
+| Frontend | React | `▰▰▰▰▱▱▱▱▱▱` 40% |
+| Frontend | JavaScript | `▰▰▰▰▰▰▱▱▱▱` 60% |
+| Backend | Laravel | `▰▰▰▰▱▱▱▱▱▱` 40% |
+| Backend | PHP | `▰▰▰▰▰▱▱▱▱▱` 50% |
+| Données | SQL (MySQL / PostgreSQL / SQLite) | `▰▰▰▰▰▰▱▱▱▱` 60% |
+| Fondamentaux | Java / POO | `▰▰▰▰▰▰▰▱▱▱` 70% |
 
-<sub>📌 Auto-évaluation indicative, mise à jour au fil de mon apprentissage</sub>
+<sub>Auto-évaluation indicative, mise à jour au fil de mon apprentissage</sub>
 
 </div>
 
@@ -67,10 +67,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
-## 📂 Projets
+## Projets
 
 <details open>
-<summary><strong>🏦 GestCompte</strong> — Gestion de comptes bancaires / mobile wallet</summary>
+<summary><strong>GestCompte</strong> — Gestion de comptes bancaires / mobile wallet</summary>
 <br>
 
 `Java` `POO` `Logique métier`
@@ -78,7 +78,7 @@ Application de gestion de comptes avec règles métier et gestion d'états.
 </details>
 
 <details>
-<summary><strong>📚 BiblioApp</strong> — Gestion de bibliothèque</summary>
+<summary><strong>BiblioApp</strong> — Gestion de bibliothèque</summary>
 <br>
 
 `HTML` `CSS` `JavaScript`
@@ -86,7 +86,7 @@ Interface de gestion d'ouvrages avec manipulation avancée du DOM, sans framewor
 </details>
 
 <details>
-<summary><strong>🗂️ Gestion des candidats</strong> — Système CRUD</summary>
+<summary><strong>Gestion des candidats</strong> — Système CRUD</summary>
 <br>
 
 `C++` `SQLite3`
@@ -94,7 +94,7 @@ CRUD complet avec persistance des données et architecture en fichiers séparés
 </details>
 
 <details>
-<summary><strong>⚽ Club Foot BF</strong> — Gestion d'un club sportif</summary>
+<summary><strong>Club Foot BF</strong> — Gestion d'un club sportif</summary>
 <br>
 
 `Merise` `Access` `SQL`
@@ -102,7 +102,7 @@ Modélisation complète (MCD/MLD) et requêtes SQL pour la gestion d'un club loc
 </details>
 
 <details>
-<summary><strong>🌐 Portfolio</strong> — Site vitrine personnel</summary>
+<summary><strong>Portfolio</strong> — Site vitrine personnel</summary>
 <br>
 
 `HTML` `CSS` `JavaScript`
@@ -113,7 +113,7 @@ Site responsive présentant mon profil et mes projets.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
-## 📊 Mon activité GitHub
+## Activité GitHub
 
 <div align="center">
 
@@ -130,25 +130,9 @@ Site responsive présentant mon profil et mes projets.
 
 <br>
 
-## 🔥 Heatmap de contributions
-
-<div align="center">
-<img src="https://ghchart.rshah.org/8B5CF6/KABORE-DEV" alt="Contributions GitHub" width="90%"/>
-</div>
-
-<br>
-
-## 💬 Citation du jour
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
-## 📬 Restons en contact
+## Contact
 
 <p align="center">
   <a href="mailto:kaborefrank.891@gmail.com">
