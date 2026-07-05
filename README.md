@@ -1,330 +1,88 @@
 <div align="center">
 
-# Kabore Frank
+# Salut, moi c'est Frank 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&duration=3500&pause=1000&color=6EE7B7&center=true&vCenter=true&width=440&lines=CS+Student+%40+Université+Aube+Nouvelle;Learning+by+building.;One+bug+fixed%2C+ten+more+to+go.;Somewhere+between+%22it+works%22+and+%22I+know+why%22.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=500&lines=%C3%89tudiant+en+Informatique+%40+Universit%C3%A9+Aube+Nouvelle;En+formation+%3A+React+%2B+Laravel;Rigueur%2C+curiosit%C3%A9+et+apprentissage+continu;Construire+des+solutions%2C+une+ligne+%C3%A0+la+fois)](https://git.io/typing-svg)
 
-<p>
-  <em>Bobo-Dioulasso, Burkina Faso 🇧🇫 · Français · Mooré · English</em>
-</p>
+<em>📍 Bobo-Dioulasso, Burkina Faso 🇧🇫 &nbsp;·&nbsp; Français · Mooré · English</em>
 
 </div>
 
----
+<br>
 
-### 👋 À propos
+## 🚀 À propos de moi
 
-Développeur Full-Stack en devenir ,j’aime transformer des idées en applications concrètes tout en renforçant mes compétences en programmation.
-Curieux, rigoureux et toujours prêt à apprendre de nouvelles technologies, je cherche constamment à améliorer ma logique, mon code et ma manière de concevoir des projets. 🚀
-**.  
+Étudiant en informatique, actuellement en formation sur **React** et **Laravel**, avec un intérêt marqué pour la résolution de problèmes et la compréhension approfondie des systèmes que je développe.  
+Mon apprentissage repose sur la pratique : chaque projet est l'occasion de consolider mes acquis et d'élargir mes compétences.
 
-💡 Passionné par :
-- la programmation orientée objet ;
-- les bases de données ;
-- le développement web ;
-- la résolution de problèmes.
+- 🔭 En cours d'apprentissage : **React** (frontend) et **Laravel** (backend)
+- 🌱 Objectif à court terme : concevoir un projet full-stack complet associant React et une API Laravel
+- 📚 Renforcement continu de mes bases en algorithmique et en architecture logicielle
+- 🤝 Ouvert aux collaborations et aux projets Open Source pour progresser
 
----
+<br>
 
-### 🧰 Stack
-
-#### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1f2937)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1f2937)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1f2937)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1f2937)
-
-#### Backend & Langages
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=1f2937)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1f2937)
-
-#### Bases de données
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1f2937)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1f2937)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1f2937)
-![Merise](https://img.shields.io/badge/Merise-4285F4?style=for-the-badge&logo=database&logoColor=white&labelColor=1f2937)
-
-#### Outils
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1f2937)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1f2937)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937)
-
----
-
-### 📂 Projets académiques
-
-| # | Projet | Stack | Ce que j'ai appris |
-|---|---|---|---|
-| 01 | **GestCompte** — gestion de comptes bancaires / mobile wallet | Java | POO, logique métier, gestion d'états |
-| 02 | **BiblioApp** — gestion de bibliothèque | HTML · CSS · JS | DOM, interactions sans framework |
-| 03 | **Gestion des candidats** | SQLite3 · C++ | CRUD, base de données, fichiers séparés |
-| 04 | **Club Foot BF** — gestion d'un club de football | Access · Merise | MCD/MLD, requêtes SQL |
-| 05 | **Portfolio** — vitrine personnelle | HTML · CSS · JS | Responsive design |
-
----
-
-### 🎯 Focus actuel
-
-- 🔄 Approfondir Java et la POO avancée
-- 🔄 Pratiquer React et les composants modernes
-- 🔄 Renforcer mes bases en algorithmes
-- 📌 Construire des projets full-stack
-- 📌 Contribuer à l’open source
-
----
-
-### 📊 GitHub Stats
+## 🛠️ Stack Technique
 
 <div align="center">
 
-<img 
-height="170" 
-src="https://github-readme-stats.vercel.app/api?username=KABORE-DEV&show_icons=true&theme=transparent&hide_border=true&title_color=6EE7B7&icon_color=6EE7B7&text_color=9CA3AF&border_radius=15" 
-/>
-
-<img 
-height="170" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=KABORE-DEV&layout=compact&theme=transparent&hide_border=true&title_color=6EE7B7&text_color=9CA3AF&border_radius=15&langs_count=8" 
-/>
-
-</div>
-
-<div align="center">
-
-<img 
-height="180"
-src="https://github-readme-streak-stats.herokuapp.com?user=KABORE-DEV&theme=transparent&hide_border=true&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=9CA3AF&dates=9CA3AF&border_radius=15" 
-/>
-
-</div>
-
----
-
-### 🏆 Trophées
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KABORE-DEV&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=6" />
-
-</div>
-
----
-
-### 📈 Activité GitHub
-
-<div align="center">
-
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=KABORE-DEV&theme=react-dark&hide_border=true&radius=16&area=true" 
-width="95%" 
-/>
-
-</div>
-
----
-
-### ✨ Fun Zone
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-### 📬 Me contacter
-
-<div align="center">
-
-<a href="mailto:kaborefrank.891@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-kaborefrank.891%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/KABORE-DEV">
-  <img src="https://img.shields.io/badge/GitHub-KABORE--DEV-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=KABORE-DEV&style=for-the-badge&color=6EE7B7" />
-
-<br><br>
-
-<sub>⚡ En construction permanente — comme tout bon projet.</sub>
-
-</div>
-Je veux que tu me refasses un readme propre et moderne. Côte frontend je maitrise react maintenant et backend je maitriise laravel.
-Donc adapte ca avec un readme propre simple percutant moderne qui attire l'attention
-Passionné par la résolution de problèmes et l'architecture logicielle, j'aime transformer des défis techniques en lignes de code propres et maintenables.
-
----
-
-## 🛠️ Mon Stack Technique
-
-### 💻 Frontend
+**Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Langages
+**Backend**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Bases de données & Modélisation**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Autres langages & Outils**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🗄️ Bases de données & Modélisation
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Merise](https://img.shields.io/badge/Merise-4285F4?style=for-the-badge&logo=database&logoColor=white)
+</div>
 
----
+<br>
 
-## 📂 Projets phares & Académiques
+## 📂 Projets
 
-| Projet | Stack | Ce que j'ai réalisé / appris |
+| Projet | Stack | Description |
 | :--- | :--- | :--- |
-| **GestCompte** | Java (POO) | Gestion de comptes bancaires / mobile wallet (Logique métier complexe). |
-| **BiblioApp** | JS Vanilla | Application de gestion de bibliothèque (Manipulation poussée du DOM). |
-| **Gestion des candidats** | C++ · SQLite3 | Système CRUD complet avec persistance de données en fichiers séparés. |
-| **Club Foot BF** | Merise · Access | Modélisation complète (MCD/MLD) et requêtes SQL pour un club local. |
+| **GestCompte** | Java (POO) | Gestion de comptes bancaires / mobile wallet — logique métier complexe |
+| **BiblioApp** | HTML · CSS · JS | Gestion de bibliothèque — manipulation avancée du DOM |
+| **Gestion des candidats** | C++ · SQLite3 | Système CRUD complet avec persistance en fichiers séparés |
+| **Club Foot BF** | Merise · Access | Modélisation MCD/MLD et requêtes SQL pour un club local |
+| **Portfolio** | HTML · CSS · JS | Site vitrine personnel, responsive design |
 
----
+<br>
 
-## 🎯 Objectifs actuels
-
-* 🏎️ Maîtriser l'écosystème avancé de **Laravel** (API REST, Sanctum, Queues)
-* ⚛️ Perfectionner la gestion d'état globale avec **React** (Redux Toolkit / Context API)
-* 🚀 Concevoir et déployer mon premier projet d'envergure combinant **React + Laravel API**
-* 🤝 Collaborer sur des projets Open Source
-
----
-
-## 📊 Activité & Statistiques
+## 📊 Statistiques GitHub
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KABORE-DEV&show_icons=true&theme=dark&hide_border=true&title_color=6EE7B7&icon_color=6EE7B7&text_color=9CA3AF&bg_color=111827" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KABORE-DEV&layout=compact&theme=dark&hide_border=true&title_color=6EE7B7&text_color=9CA3AF&bg_color=111827&langs_count=5" />
-
-</div>
-
----
-
-<div align="center">
-
-⚡ *En construction permanente — Propulsé par le café et la passion du code.*
-
-![Vue de profil](https://komarev.com/ghpvc/?username=KABORE-DEV&style=flat-square&color=6EE7B7&label=Profil+Visité)
-
-</div>
----
-
-## 🎯 Objectifs actuels
-
-* 🏎️ Maîtriser l'écosystème avancé de **Laravel** (API REST, Sanctum, Queues)
-* ⚛️ Perfectionner la gestion d'état globale avec **React** (Redux Toolkit / Context API)
-* 🚀 Concevoir et déployer mon premier projet d'envergure combinant **React + Laravel API**
-* 🤝 Collaborer sur des projets Open Source
-
----
-
-## 📊 Activité & Statistiques
-
-<div align="center">
-
-<!-- Cartes de statistiques principales -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KABORE-DEV&show_icons=true&theme=dark&hide_border=true&title_color=6EE7B7&icon_color=6EE7B7&text_color=9CA3AF&bg_color=111827" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KABORE-DEV&layout=compact&theme=dark&hide_border=true&title_color=6EE7B7&text_color=9CA3AF&bg_color=111827&langs_count=5" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KABORE-DEV&show_icons=true&theme=dark&hide_border=true&title_color=6EE7B7&icon_color=6EE7B7&text_color=9CA3AF&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KABORE-DEV&layout=compact&theme=dark&hide_border=true&title_color=6EE7B7&text_color=9CA3AF&bg_color=0D1117&langs_count=8" />
 
 <br><br>
 
-<!-- Courbe d'activité annuelle (Activity Graph) -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KABORE-DEV&theme=github-dark-neon&bg_color=111827&color=6EE7B7&line=6EE7B7&point=ffffff&hide_border=true" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=KABORE-DEV&theme=dark&hide_border=true&background=0D1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=9CA3AF&dates=9CA3AF" />
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KABORE-DEV&theme=react-dark&hide_border=true&bg_color=0D1117&color=6EE7B7&line=6EE7B7&point=ffffff&radius=16&area=true" />
 
 </div>
 
----
+<br>
 
-<div align="center">
-
-⚡ *En construction permanente — Propulsé par le café et la passion du code.*
-
-![Vue de profil](https://komarev.com/ghpvc/?username=KABORE-DEV&style=flat-square&color=6EE7B7&label=Profil+Visité)
-
-</div>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1f2937)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1f2937)
-![Merise](https://img.shields.io/badge/Merise-4285F4?style=for-the-badge&logo=database&logoColor=white&labelColor=1f2937)
-
-#### Outils
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1f2937)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1f2937)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937)
-
----
-
-### 📂 Projets académiques
-
-| # | Projet | Stack | Ce que j'ai appris |
-|---|---|---|---|
-| 01 | **GestCompte** — gestion de comptes bancaires / mobile wallet | Java | POO, logique métier, gestion d'états |
-| 02 | **BiblioApp** — gestion de bibliothèque | HTML · CSS · JS | DOM, interactions sans framework |
-| 03 | **Gestion des candidats** | SQLite3 · C++ | CRUD, base de données, fichiers séparés |
-| 04 | **Club Foot BF** — gestion d'un club de football | Access · Merise | MCD/MLD, requêtes SQL |
-| 05 | **Portfolio** — vitrine personnelle | HTML · CSS · JS | Responsive design |
-
----
-
-### 🎯 Focus actuel
-
-- 🔄 Approfondir Java et la POO avancée
-- 🔄 Pratiquer React et les composants modernes
-- 🔄 Renforcer mes bases en algorithmes
-- 📌 Construire des projets full-stack
-- 📌 Contribuer à l’open source
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img 
-height="170" 
-src="https://github-readme-stats.vercel.app/api?username=KABORE-DEV&show_icons=true&theme=transparent&hide_border=true&title_color=6EE7B7&icon_color=6EE7B7&text_color=9CA3AF&border_radius=15" 
-/>
-
-<img 
-height="170" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=KABORE-DEV&layout=compact&theme=transparent&hide_border=true&title_color=6EE7B7&text_color=9CA3AF&border_radius=15&langs_count=8" 
-/>
-
-</div>
-
-<div align="center">
-
-<img 
-height="180"
-src="https://github-readme-streak-stats.herokuapp.com?user=KABORE-DEV&theme=transparent&hide_border=true&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=9CA3AF&dates=9CA3AF&border_radius=15" 
-/>
-
-</div>
-
----
-
-### 🏆 Trophées
+## 🏆 Trophées
 
 <div align="center">
 
@@ -332,48 +90,20 @@ src="https://github-readme-streak-stats.herokuapp.com?user=KABORE-DEV&theme=tran
 
 </div>
 
----
+<br>
 
-### 📈 Activité GitHub
-
-<div align="center">
-
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=KABORE-DEV&theme=react-dark&hide_border=true&radius=16&area=true" 
-width="95%" 
-/>
-
-</div>
-
----
-
-### ✨ Fun Zone
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-### 📬 Me contacter
+## 📬 Me contacter
 
 <div align="center">
 
 <a href="mailto:kaborefrank.891@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-kaborefrank.891%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://github.com/KABORE-DEV">
   <img src="https://img.shields.io/badge/GitHub-KABORE--DEV-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=KABORE-DEV&style=for-the-badge&color=6EE7B7" />
 
