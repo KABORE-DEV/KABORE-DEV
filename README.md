@@ -42,7 +42,27 @@ J'apprends par la pratique : chaque projet est une occasion de progresser un peu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,laravel,php,mysql,postgres,sqlite,cpp,java,git,github,vscode&theme=dark&perline=7" />
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
+
+<br><br>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=laravel,php&theme=dark" />
+
+<br><br>
+
+**Bases de données**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
+
+<br><br>
+
+**Fondamentaux & Outils**
+
+<img src="https://skillicons.dev/icons?i=java,cpp,git,github,vscode&theme=dark" />
 
 </div>
 
