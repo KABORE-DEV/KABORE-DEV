@@ -1,155 +1,141 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Frank%20Kabore&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=%C3%89tudiant%20en%20Informatique%20%7C%20React%20%2B%20Laravel&descAlignY=52&descSize=18" width="100%"/>
+```
+╔═══════════════════════════════════════════════════╗
+║   Frank · KABORE                                  ║
+║   Étudiant · Génie Logiciel · Burkina Faso        ║
+╚═══════════════════════════════════════════════════╝
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=EC4899&center=true&vCenter=true&width=650&lines=Rigueur%2C+curiosit%C3%A9+et+apprentissage+continu;Je+construis+des+solutions%2C+une+ligne+%C3%A0+la+fois;Actuellement+en+formation+%3A+React+%2B+Laravel" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Bobo--Dioulasso,_Burkina_Faso-8B5CF6?style=flat-square&labelColor=1e1b2e" />
-<img src="https://img.shields.io/badge/FR_·_Moor%C3%A9_·_EN-3B82F6?style=flat-square&labelColor=1e1b2e" />
-<img src="https://img.shields.io/badge/Universit%C3%A9_Aube_Nouvelle-EC4899?style=flat-square&labelColor=1e1b2e" />
-<img src="https://img.shields.io/badge/Ouvert_%C3%A0_l'Open_Source-10B981?style=flat-square&labelColor=1e1b2e" />
+[![Portfolio](https://img.shields.io/badge/portfolio-kabore.dev-0f0f0f?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-frank-kabore.web.app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-frank--kabore-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frank-b-kabore-9117632b0/)
+[![Email](https://img.shields.io/badge/email-kabore.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kabore.dev@gmail.com)
+![Location](https://img.shields.io/badge/📍-Bobo--Dioulasso,_BF-1a1a2e?style=flat-square)
+![Status](https://img.shields.io/badge/🟢_disponible-pour_collaboration-1a1a2e?style=flat-square)
 
 </div>
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
+Je suis étudiant en 3ème année de **Génie Logiciel** à l'Université Aube Nouvelle.
+Je construis des interfaces web, des APIs, et j'apprends à assembler tout ça proprement.
+Actuellement en stage chez **Kuilinga Technologies** — React · Laravel · Firebase.
 
-## À propos
+---
 
-Étudiant en informatique en formation active sur **React** et **Laravel**, curieux de nature et attaché à comprendre en profondeur ce que je construis.
-J'apprends par la pratique : chaque projet est une occasion de progresser un peu plus.
+## Stack technique
 
-<br>
+**Langages**
 
-## Feuille de route
-
-<div align="center">
-
-| Bases solides | En cours | À venir | Objectif |
-|:---:|:---:|:---:|:---:|
-| Java · C++ · POO<br>Bases de données | **React** · **Laravel**<br>API REST | Projet full-stack<br>React + Laravel API | Contribuer à<br>l'Open Source |
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
-
-## Technologies
-
-<div align="center">
+| Langue | Niveau |
+|--------|--------|
+| JavaScript / TypeScript | ███░ En progression |
+| PHP | ██░░ Apprentissage actif |
+| Java | ███░ Pratiqué (POO, structures) |
+| SQL · PostgreSQL | ███░ Pratiqué (modélisation, requêtes) |
+| C · C++ | ██░░ Familier (algo, fichiers) |
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
+```
+React 19        →  composants, hooks, context, lazy loading
+Next.js         →  SSR, routing App Router, pages statiques
+TypeScript      →  typage progressif sur projets React
+HTML / CSS      →  base solide, responsive, accessibilité
+PWA             →  manifest, service worker, offline-first
+```
 
-<br><br>
+**Backend & Outils**
 
-**Backend**
+```
+Laravel         →  Eloquent, API REST, authentification
+Firebase        →  Firestore, Auth, Storage, déploiement
+MySQL           →  modélisation, jointures, transactions
+Git / GitHub    →  versioning, branches, pull requests
+Ngrok           →  tunneling local, tests webhook
+Vercel          →  déploiement continu
+```
 
-<img src="https://skillicons.dev/icons?i=laravel,php&theme=dark" />
-
-<br><br>
-
-**Bases de données**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
-
-<br><br>
-
-**Fondamentaux & Outils**
-
-<img src="https://skillicons.dev/icons?i=java,cpp,git,github,vscode&theme=dark" />
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
+---
 
 ## Projets
 
-<details open>
-<summary><strong>GestCompte</strong> — Gestion de comptes bancaires / mobile wallet</summary>
-<br>
+### La Voix de Korsimoro — `Laravel`
+Plateforme de média en ligne pour une ville du Burkina Faso.
+Interface multi-rubriques, page admin, gestion des articles.
+→ [Voir le site](https://la-voix-de-korsimoro.vercel.app) · [Code](https://github.com/KABORE-DEV/Cleaning_Services)
 
-`Java` `POO` `Logique métier`
-Application de gestion de comptes avec règles métier et gestion d'états.
-</details>
+---
 
-<details>
-<summary><strong>BiblioApp</strong> — Gestion de bibliothèque</summary>
-<br>
+### Faso Pagnes — `Laravel · React · MySQL`
+Application e-commerce de pagnes traditionnels burkinabè.
+Catalogue, panier, commandes, back-office de gestion.
+→ [Code](https://github.com/KABORE-DEV/Faso_Pagnes) · *En cours*
 
-`HTML` `CSS` `JavaScript`
-Interface de gestion d'ouvrages avec manipulation avancée du DOM, sans framework.
-</details>
+---
 
-<details>
-<summary><strong>Gestion des candidats</strong> — Système CRUD</summary>
-<br>
+### Portfolio Personnel — `React · Vite · Firebase`
+Ce site — dark/light mode, CMS Firestore, responsive, PWA-ready.
+Déployé sur Firebase Hosting + Vercel.
+→ [Voir le site](https://portfolio-frank-kabore.web.app) · [Code](https://github.com/KABORE-DEV)
 
-`C++` `SQLite3`
-CRUD complet avec persistance des données et architecture en fichiers séparés.
-</details>
+---
 
-<details>
-<summary><strong>Club Foot BF</strong> — Gestion d'un club sportif</summary>
-<br>
+### BiblioApp — `HTML · CSS · JavaScript`
+Interface de gestion de bibliothèque. DOM natif, CRUD complet, sans framework.
+→ [Code](https://github.com/KABORE-DEV/Gestion-Biblith-que-Web-Projet-Academique)
 
-`Merise` `Access` `SQL`
-Modélisation complète (MCD/MLD) et requêtes SQL pour la gestion d'un club local.
-</details>
+---
 
-<details>
-<summary><strong>Portfolio</strong> — Site vitrine personnel</summary>
-<br>
+### GestCompte — `Java`
+Wallet console : création de comptes, transferts, admin, journalisation.
+→ [Code](https://github.com/KABORE-DEV/Gestion-Compte-Java)
 
-`HTML` `CSS` `JavaScript`
-Site responsive présentant mon profil et mes projets.
-</details>
+---
 
-<br>
+## Certifications
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
+- **Programmation avec JavaScript** — Coursera · Mars 2025
+- **Introduction to Front-End Development** — Coursera · Avril 2025
+- **Introduction to Cybersecurity** — Cisco · Décembre 2024
+- **Introduction to IoT** — Cisco · Décembre 2024
 
-## Activité GitHub
+---
+
+## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KABORE-DEV&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=EC4899&icon_color=8B5CF6&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KABORE-DEV&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=EC4899&text_color=c9d1d9&langs_count=8" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=KABORE-DEV&theme=radical&hide_border=true&background=1a1b27&ring=8B5CF6&fire=EC4899&currStreakLabel=EC4899" height="165"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=KABORE-DEV&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&hide=stars&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KABORE-DEV&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
 
 <br>
 
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=KABORE-DEV&theme=react-dark&hide_border=true&bg_color=1a1b27&color=8B5CF6&line=EC4899&point=ffffff&area=true&radius=16" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=KABORE-DEV&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true" />
 
 </div>
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
+## Feuille de route 2026
 
-## Contact
+```
+[x] React — hooks, context, routing
+[x] Firebase — Firestore, Auth, Hosting
+[x] PWA — service worker, manifest
+[/] TypeScript — typage progressif en cours
+[/] Next.js — App Router, SSR
+[ ] Tests unitaires & intégration (Vitest · Playwright)
+[ ] Contribution open source
+[ ] Projet full-stack public : Next.js + Laravel API
+```
 
-<p align="center">
-  <a href="mailto:kaborefrank.891@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/KABORE-DEV">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KABORE-DEV&style=for-the-badge&color=8B5CF6&label=VISITEURS" />
+
+*Étudiant · Stagiaire · Bobo-Dioulasso, Burkina Faso*
+`Français · Mooré · Anglais technique`
+
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
